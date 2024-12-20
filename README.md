@@ -6,7 +6,7 @@
 - 🗣️ I am 15 years old 
 - 🔭 I am not programmer
 
-  <a href="https://komarev.com/ghpvc/?username=RynXD-Host&color=blue&style=flat-square&label=Profile+Seen"><img src="https://komarev.com/ghpvc/?username=RynXD-Host&color=blue&style=flat-square&label=Profile+Seen" />
+  <a href="https://komarev.com/ghpvc/?username=RynXD-Host&color=blue&style=flat-square&label=Profile+Seen"><img src="https://komarev.com/ghpvc/?username=Zumaly-Host&color=blue&style=flat-square&label=Profile+Seen" />
 
 </p>
 
